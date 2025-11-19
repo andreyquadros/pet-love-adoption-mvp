@@ -26,11 +26,11 @@ Alguns objetivos do MVP:
 
 - [x] Estrutura básica Flutter (Android, iOS e Web).
 - [x] Tela inicial com tema “adoção de pets”.
-- [ ] Listagem de pets disponíveis para adoção.
-- [ ] Tela de detalhes do pet.
-- [ ] Botão de ação para “Quero adotar”.
+- [x] Listagem de pets disponíveis para adoção.
+- [x] Tela de detalhes do pet.
+- [x] Botão de ação para “Quero adotar”.
 - [ ] Filtro simples por tipo de animal (cães, gatos, etc.).
-- [ ] Validação básica de formulários.
+
 
 Você pode ajustar essas caixas de seleção conforme for implementando as features. 😉
 
