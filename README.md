@@ -96,24 +96,6 @@ flutter run -d android
 # iOS (emulador/dispositivo)
 flutter run -d ios
 
-🧪 Possíveis extensões (idéias para evolução)
-
-Algumas ideias para futuras versões do app:
-
-Autenticação de usuários (adotantes / ONGs / protetores).
-
-Favoritar pets.
-
-Filtros avançados (porte, idade, localização).
-
-Integração com backend (API REST ou Firebase).
-
-Upload de fotos dos pets.
-
-Tela de histórico de adoções.
-
-Essas ideias podem virar backlog de features para próximas versões ou atividades da disciplina.
-
 🤝 Contribuição
 
 Sinta-se à vontade para:
@@ -124,21 +106,10 @@ Criar pull requests com melhorias de código, layout ou documentação.
 
 Utilizar o projeto como base para estudos em Flutter.
 
-Se for um projeto de disciplina, você pode adicionar aqui orientações específicas para colegas/avaliadores.
 
 👨‍💻 Autor
 
-Andrey Alencar Quadros
+Prof. Andrey Alencar Quadros
 Desenvolvedor e professor, explorando Flutter/Dart e desenvolvimento mobile.
 
-📄 Licença
-
-Ainda sem licença definida.
-Caso deseje, você pode adicionar uma licença, por exemplo:
-
-MIT
-
-Apache 2.0
-
-E atualizar esta seção conforme sua escolha.
 
